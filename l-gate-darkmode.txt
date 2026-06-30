@@ -1,0 +1,134 @@
+
+# 🧩 全体背景
+
+l-gate.net##html, body:style(background-color:#0d1117; color:#e6edf3)
+
+
+# 🧩 白背景 → ダーク
+
+l-gate.net##.bg-white:style(background-color:#161b22)
+l-gate.net##.bg-gray-100:style(background-color:#161b22)
+l-gate.net##.bg-greeting-green:style(background-color:#161b22)
+
+
+# 🧩 テキスト色
+
+l-gate.net##.text-gray-900:style(color:#e6edf3)
+l-gate.net##.text-lg-blue:style(color:#e6edf3)
+l-gate.net##.text-gray-600:style(color:#e6edf3)
+l-gate.net##.text-gray-500:style(color:#e6edf3)
+
+
+# 🧩 メニュー背景
+
+l-gate.net##.menu-bar:style(background-color:#0d1117; border-right:1px solid #30363d)
+
+
+# 🧩 カード類
+
+l-gate.net##.container .rounded-md:style(background-color:#161b22; border-color:#30363d)
+l-gate.net##.border:style(background-color:#161b22; border-color:#30363d)
+l-gate.net##.border-gray-300:style(background-color:#161b22; border-color:#30363d)
+
+
+# 🧩 hover
+
+l-gate.net##.hover\:bg-gray-100:hover:style(background-color:#21262d)
+
+
+# 🧩 リスト項目
+
+l-gate.net##li:style(background-color:#161b22; border-color:#30363d)
+
+
+# 🧩 SVG アイコン
+
+l-gate.net##svg:style(color:#e6edf3; fill:currentColor)
+
+
+# 🧩 プロフィールボタン
+
+l-gate.net##button.bg-white:style(background-color:#21262d; color:#e6edf3)
+
+
+# 🧩 既読バッジ
+
+l-gate.net##.bg-lg-blue:style(filter:brightness(0.9))
+l-gate.net##.bg-lg-green:style(filter:brightness(0.9))
+l-gate.net##.bg-lg-red:style(filter:brightness(0.9))
+
+
+
+
+# 🧩 Everyday Note Section
+
+
+l-gate.net##.container:style(background-color:#0d1117; color:#e6edf3)
+l-gate.net##.text-lg-blue a:style(color:#58a6ff)
+l-gate.net##.balloon_selected:style(background-color:#1f6feb; color:#e6edf3; border:1px solid #30363d)
+l-gate.net##.balloon_unselected:style(background-color:#161b22; color:#e6edf3; border:1px solid #30363d)
+l-gate.net##.new-everyday-note-button-tooltip button:style(background-color:#1f6feb; border-color:transparent)
+l-gate.net##.new-everyday-note-button-description:style(color:#8b949e)
+l-gate.net##table:style(background-color:#0d1117; color:#e6edf3)
+l-gate.net##thead tr:style(background-color:#161b22; border-color:#30363d)
+l-gate.net##th.sticky:style(background-color:#161b22; color:#e6edf3; border-color:#30363d)
+l-gate.net##th.bg-white:style(background-color:#161b22; color:#e6edf3; border-color:#30363d)
+l-gate.net##td:style(border-color:#30363d)
+l-gate.net##th:style(border-color:#30363d)
+l-gate.net##tr:style(border-color:#30363d)
+l-gate.net##.text-gray-600:style(color:#8b949e)
+l-gate.net##.text-gray-700:style(color:#8b949e)
+l-gate.net##button.bg-gray-200:style(background-color:#21262d; color:#e6edf3)
+l-gate.net##button.bg-gray-200:hover:style(background-color:#30363d)
+l-gate.net##.btn-pgn:style(background-color:#161b22; color:#e6edf3; border:1px solid #30363d)
+l-gate.net##.btn-pgn-middle.bg-lg-blue:style(background-color:#1f6feb)
+l-gate.net##.btn-pgn:hover:style(background-color:#21262d)
+
+
+
+
+# 🧩 Modal Dark Mode
+
+
+l-gate.net##.bg-gray-500.opacity-75:style(background-color:#000; opacity:0.6)
+l-gate.net##.bg-white.rounded-lg:style(background-color:#161b22; color:#e6edf3)
+l-gate.net##.bg-white.flex-1:style(background-color:#161b22; color:#e6edf3)
+l-gate.net##.bg-white.p-4:style(background-color:#161b22; color:#e6edf3)
+l-gate.net##.bg-white.py-6:style(background-color:#161b22; color:#e6edf3)
+l-gate.net##.bg-white.px-4:style(background-color:#161b22; color:#e6edf3)
+l-gate.net##.bg-lg-blue:style(filter:brightness(0.9))
+l-gate.net##.bg-beaver-100:style(background-color:#1e2630; color:#e6edf3)
+l-gate.net##.bg-gray-100:style(background-color:#1e2630; color:#e6edf3)
+l-gate.net##.text-gray-600:style(color:#9ba7b4)
+l-gate.net##.text-gray-700:style(color:#9ba7b4)
+l-gate.net##.inline-flex.bg-white:style(background-color:#21262d; color:#e6edf3; border-color:#30363d)
+l-gate.net##.border-gray-300:style(border-color:#30363d)
+l-gate.net##.bg-lg-green:style(filter:brightness(0.9))
+l-gate.net##textarea:style(background-color:#0d1117; color:#e6edf3; border:1px solid #30363d)
+l-gate.net##.bg-gray-50:style(background-color:#161b22; border-color:#30363d)
+l-gate.net##button.bg-lg-blue:style(filter:brightness(0.9))
+l-gate.net##button.bg-white:style(background-color:#21262d; color:#e6edf3; border-color:#30363d)
+l-gate.net##button.bg-white:hover:style(background-color:#30363d)
+
+
+
+
+# 🧩 Empty Questionnaire Section
+
+
+l-gate.net##.questionnaire_header:style(color:#e6edf3)
+l-gate.net##.empty:style(background-color:#161b22; border:1px solid #30363d; color:#e6edf3)
+l-gate.net##.empty-image svg *:style(stroke:#8b949e; fill:#8b949e)
+l-gate.net##.empty-description:style(color:#9ba7b4)
+
+
+
+
+# 🧩 Greeting Box
+
+
+l-gate.net##.bg-greeting-green:style(background-color:#1e2630; color:#e6edf3; border:1px solid #30363d)
+l-gate.net##.bg-greeting-green p:style(color:#9ba7b4)
+l-gate.net##.bg-greeting-green h2:style(color:#e6edf3)
+l-gate.net##.greeting_image:style(filter:brightness(0.75) contrast(0.9))
+
